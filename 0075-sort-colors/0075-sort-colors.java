@@ -11,6 +11,9 @@ class Solution {
                     swapped = true;
                 }
             }
+            if(!swapped){
+                break;
+            }
         }
     }
 }
