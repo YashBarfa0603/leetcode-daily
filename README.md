@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
+| [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
+| [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,4 +68,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
