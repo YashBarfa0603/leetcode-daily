@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
