@@ -4,17 +4,16 @@ class Solution {
         while(true){
             int m = i * k;
             boolean ans = false;
-            for (int j = 0; j<= nums.length - 1; j++){
+            for (int j = 0; j<nums.length; j++){
                 if(nums[j] == m){
                     ans = true;
                 }
             }
-            if(ans == true){
+            if(ans){
                 i++;
             }else{
                 return m;
             }
-
         }
     }
 }
