@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2235-add-two-integers) |
@@ -83,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -106,6 +108,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
