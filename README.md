@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
@@ -19,6 +20,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Array
@@ -32,6 +34,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
@@ -95,6 +99,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Minimax
@@ -114,4 +119,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
