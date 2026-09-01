@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
