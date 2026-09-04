@@ -1,36 +1,19 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-
         int n = nums.length;
+        int [] left = new int[n];
+        left [n-1]= nums[n-1];
 
-        // Suffix minimum
-        int[] min = new int[n];
-
-        min[n - 1] = nums[n - 1];
-
-        for (int i = n - 2; i >= 0; i--) {
-            min[i] = Math.min(nums[i], min[i + 1]);
+        for(int i = n-2; i>=0; i--){
+            left[i] = Math.min(nums[i],left[i+1]);
         }
-
-        // Prefix maximum
-        int[] max = new int[n];
-
-        max[0] = nums[0];
-
-        for (int i = 1; i < n; i++) {
-            max[i] = Math.max(nums[i], max[i - 1]);
-        }
-
-        // Find first stable index
-        for (int i = 0; i < n; i++) {
-
-            int ans = max[i] - min[i];
-
-            if (ans <= k) {
+        int right = 0;
+        for(int i = 0; i < n; i++){
+            right = Math.max(nums[i],right);
+            if(right - left[i] <= k){
                 return i;
             }
         }
-
         return -1;
     }
 }
