@@ -1,16 +1,16 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
-        int [] left = new int[n];
-        left [n-1]= nums[n-1];
+        int [] right = new int[n];
+        right [n-1]= nums[n-1];
 
         for(int i = n-2; i>=0; i--){
-            left[i] = Math.min(nums[i],left[i+1]);
+            right[i] = Math.min(nums[i],right[i+1]);
         }
-        int right = 0;
+        int left = 0;
         for(int i = 0; i < n; i++){
-            right = Math.max(nums[i],right);
-            if(right - left[i] <= k){
+            left= Math.max(nums[i],left);
+            if(left - right[i] <= k){
                 return i;
             }
         }
