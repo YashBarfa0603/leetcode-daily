@@ -48,6 +48,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -109,6 +110,7 @@
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
