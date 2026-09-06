@@ -59,6 +59,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 ## Greedy
@@ -107,6 +108,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
