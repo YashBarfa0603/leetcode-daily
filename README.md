@@ -61,6 +61,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
@@ -111,6 +112,7 @@
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
