@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2235-add-two-integers) |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
