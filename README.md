@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
