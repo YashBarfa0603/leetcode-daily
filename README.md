@@ -44,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0041-first-missing-positive) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
