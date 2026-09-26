@@ -78,6 +78,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3876-construct-uniform-parity-array-ii) |
