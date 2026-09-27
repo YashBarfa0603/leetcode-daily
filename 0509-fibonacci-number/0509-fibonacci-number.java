@@ -3,6 +3,13 @@ class Solution {
         if(n < 2){
             return n;
         }
-        return fib(n - 1) + fib(n - 2);
+        int pre = 0;
+        int current = 1;
+        for(int i = 2; i <= n; i++){
+            int next = pre + current;
+            pre = current;
+            current = next;
+        }
+        return current;
     }
 }
