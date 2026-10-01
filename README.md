@@ -145,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0709-to-lower-case) |
@@ -228,9 +229,11 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
