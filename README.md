@@ -42,6 +42,7 @@
 | [0287-find-the-duplicate-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -126,6 +128,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0287-find-the-duplicate-number) |
+| [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Minimax
