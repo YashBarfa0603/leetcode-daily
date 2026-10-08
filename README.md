@@ -161,6 +161,7 @@
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -248,6 +249,7 @@
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -256,5 +258,6 @@
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
