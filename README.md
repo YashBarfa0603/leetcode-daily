@@ -87,6 +87,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3903-smallest-stable-index-i) |
@@ -118,12 +119,14 @@
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Minimax
 |  |
 | ------- |
@@ -214,6 +218,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,4 +273,12 @@
 | [1021-remove-outermost-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
