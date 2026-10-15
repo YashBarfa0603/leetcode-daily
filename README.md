@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0371-sum-of-two-integers) |
@@ -212,6 +213,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
@@ -285,4 +287,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
