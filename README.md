@@ -25,6 +25,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3871-count-commas-in-range-ii) |
@@ -104,6 +105,7 @@
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
