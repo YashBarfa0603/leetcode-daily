@@ -57,6 +57,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0189-rotate-array) |
@@ -269,6 +272,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -297,4 +301,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
