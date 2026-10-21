@@ -192,6 +192,7 @@
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Game Theory
 |  |
 | ------- |
