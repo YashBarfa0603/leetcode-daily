@@ -89,6 +89,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -245,6 +246,7 @@
 | [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
