@@ -17,6 +17,7 @@
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
+| [1360-number-of-days-between-two-dates](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1360-number-of-days-between-two-dates) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2235-add-two-integers) |
@@ -189,6 +190,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1189-maximum-number-of-balloons) |
+| [1360-number-of-days-between-two-dates](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
