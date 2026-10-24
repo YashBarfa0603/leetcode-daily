@@ -20,6 +20,7 @@
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -192,6 +193,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3863-minimum-operations-to-sort-a-string) |
