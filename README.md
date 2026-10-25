@@ -195,6 +195,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -317,4 +318,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
