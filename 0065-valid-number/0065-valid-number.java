@@ -6,48 +6,39 @@ class Solution {
         boolean digitAfterE = true;
 
         for (int i = 0; i < s.length(); i++) {
-
             char ch = s.charAt(i);
-            switch (ch) {
-                case '+':
-                case '-':
-                    if (i != 0) {
-                        if (s.charAt(i - 1) != 'e' && s.charAt(i - 1) != 'E') {
-                            return false;
-                        }
-                    }
-                    break;
 
-                case '.':
-                    if (dot || e) {
-                        return false;
-                    }
-                    dot = true;
-                    break;
+            if (ch == '+' || ch == '-') {
+                if (i != 0 && s.charAt(i - 1) != 'e'
+                    && s.charAt(i - 1) != 'E') {
+                    return false;
+                }
+            }
+            else if (ch == '.') {
+                if (dot || e) {
+                    return false;
+                }
+                dot = true;
+            }
+            else if (ch == 'e' || ch == 'E') {
+                if (e || !digit) {
+                    return false;
+                }
+                e = true;
+                digitAfterE = false;
+            }
+            else if (ch >= '0' && ch <= '9') {
+                digit = true;
 
-                case 'e':
-                case 'E':
-                    if (e || !digit) {
-                        return false;
-                    }
-                    e = true;
-                    digitAfterE = false;
-                    break;
-
-                default:
-                    if (ch < '0' || ch > '9') {
-                        return false;
-                    }
-
-                    digit = true;
-
-                    if (e) {
-                        digitAfterE = true;
-                    }
-                    break;
-
+                if (e) {
+                    digitAfterE = true;
+                }
+            }
+            else {
+                return false;
             }
         }
+
         return digit && digitAfterE;
     }
 }
