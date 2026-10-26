@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0065-valid-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
