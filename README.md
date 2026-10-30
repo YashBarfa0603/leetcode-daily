@@ -25,6 +25,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -172,6 +173,7 @@
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Quicksort
 |  |
