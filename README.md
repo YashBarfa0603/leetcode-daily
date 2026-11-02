@@ -20,6 +20,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1360-number-of-days-between-two-dates) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -88,6 +89,7 @@
 | [1732-find-the-highest-altitude](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -332,4 +335,12 @@
 |  |
 | ------- |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
