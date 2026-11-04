@@ -15,6 +15,7 @@
 | [0342-power-of-four](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1360-number-of-days-between-two-dates](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1360-number-of-days-between-two-dates) |
@@ -80,6 +81,7 @@
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
