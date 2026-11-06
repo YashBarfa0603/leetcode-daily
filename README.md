@@ -124,6 +124,7 @@
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -213,6 +214,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -253,6 +255,7 @@
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
