@@ -85,6 +85,7 @@
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -371,4 +374,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
