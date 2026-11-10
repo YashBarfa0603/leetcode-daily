@@ -104,6 +104,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -129,6 +130,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [3693-climbing-stairs-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
