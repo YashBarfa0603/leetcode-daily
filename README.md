@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1360-number-of-days-between-two-dates](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1360-number-of-days-between-two-dates) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@
 | [1288-remove-covered-intervals](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
@@ -130,6 +132,7 @@
 | [0509-fibonacci-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3693-climbing-stairs-ii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3693-climbing-stairs-ii) |
@@ -150,6 +153,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
