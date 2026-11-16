@@ -230,6 +230,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2409-count-days-spent-together](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2409-count-days-spent-together) |
@@ -272,6 +273,7 @@
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
