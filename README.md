@@ -101,6 +101,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -146,6 +147,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Prefix Sum
@@ -197,6 +199,7 @@
 | [0645-set-mismatch](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/YashBarfa0603/leetcode-daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/YashBarfa0603/leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
