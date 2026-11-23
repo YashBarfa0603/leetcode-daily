@@ -126,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0412-fizz-buzz](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0412-fizz-buzz) |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
@@ -344,6 +347,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashBarfa0603/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
